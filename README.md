@@ -1,2 +1,2 @@
-# calculadora
-calculadora feita em sala de aula
+# operacoesmatematicas
+operacoes matematicas feitas em sala de aula
